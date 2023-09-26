@@ -1,0 +1,17 @@
+.idea
+.settings/
+bin/
+.idea
+*.classpath
+*.project
+target/
+.mvn/
+HELP.md
+mvnw
+mvnw.cmd
+*.log
+*.gz
+*.bat
+gradlew
+gradle/
+.gradle/
